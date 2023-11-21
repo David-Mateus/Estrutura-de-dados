@@ -1,0 +1,2 @@
+## O que é uma lista linear em alocação sequencial
+### Uma estrutura de dados é dita linear quando existe um único caminho em que você pode percorrer seus elementos um a um. Assim, uma lista é uma estrutura linear, pois ela é basicamente uma sequência de elementos.
