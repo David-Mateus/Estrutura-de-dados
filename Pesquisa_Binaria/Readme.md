@@ -4,7 +4,7 @@
 ## Principais pontos do algoritmo de busca binaria
 
 - Lista deve está ordenada
-- divida a lista pela metada a cada iteração
+- divide a lista pela metada a cada iteração
 
 ### A busca binaria é mais eficiente do que a busca linear em listas ordenada, pois reduz drasticamente o numero de elementos a serem verificados a cada iteração.
 
