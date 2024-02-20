@@ -1,0 +1,21 @@
+prompt,seed,width,height,sampler,cfgs,steps,filename,negative_prompt
+A floating city in the sky with colorful balloons and houses shaped like clouds.,2189896724,512,512,Euler a,7,20,00000-2189896724.png,
+An enchanted forest with colorful trees and fantastical creatures hidden among them,493792557,512,512,Euler a,7,20,00001-493792557.png,
+A mirror maze with distorted reflections and strange creatures lurking in the corners.,3850921249,512,512,Euler a,7,20,00002-3850921249.png,
+"An underwater world with exotic fish, vibrant corals, and a crystal castle at the bottom of the sea.",4023062816,512,512,Euler a,7,20,00003-4023062816.png,
+A giant time machine surrounded by stormy clouds and lightning.,2480412506,512,512,Euler a,7,20,00004-2480412506.png,
+A surrealistic party with elegantly dressed animals dancing in a ballroom filled with melting clocks.,3208179547,512,512,Euler a,7,20,00005-3208179547.png,
+"An enchanted library with floating books, crystal staircases, and mysterious doors.",4012959755,512,512,Euler a,7,20,00006-4012959755.png,
+A mountain made of colorful candies with chocolate rivers and cotton candy trees.,3063271721,512,512,Euler a,7,20,00007-3063271721.png,
+A floating island with inverted waterfalls and luminescent plants that glow in the dark.,2144636360,512,512,Euler a,7,20,00008-2144636360.png,
+Whispering melodies in the wind.,3915799702,512,512,Euler a,7,20,00009-3915799702.png,
+dixit The Enchanted Labyrinth,2589750201,590,900,Euler a,7,20,00010-2589750201.png,"text,number"
+dixit Song of the Stars,1811928319,590,900,Euler a,7,20,00011-1811928319.png,"text,number"
+dixit The Dance of Dreams,1079712291,590,900,Euler a,7,20,00012-1079712291.png,"text,number"
+dixit The Secret Garden,4057497621,590,900,Euler a,7,20,00013-4057497621.png,"text,number"
+dixit The Veil of Imagination,685655039,590,900,Euler a,7,20,00014-685655039.png,"text,number"
+dixit The Veil of Imagination,685655039,590,900,Euler a,7,20,00015-685655039.png,"text,number"
+dixit The Painter of Wonders,3888925818,590,900,Euler a,7,20,00016-3888925818.png,"text,number"
+dixit The Circle of Mysteries,4212961793,590,900,Euler a,7,20,00017-4212961793.png,"text,number"
+dixit The Forest of Riddles,2160945820,590,900,Euler a,7,20,00018-2160945820.png,"text,number"
+dixit The Serenade of Dreams,2613099018,590,900,Euler a,7,20,00019-2613099018.png,"text,number"

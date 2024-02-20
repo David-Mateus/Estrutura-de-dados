@@ -1,28 +1,12 @@
-
 class Solution:
-    def reverseVowels(self, s: str) -> str:
-        vogais = 'aeiouAEIOU'
-        p = []
-        for i in s:
-            if i in vogais:
-                p.append(i)
+    def reverseWords(self, s: str) -> str:
+        splitword = s.split()
+        splitword.reverse()
+        splitwordResult = ' '.join(splitword)
+        print(splitwordResult.strip(" "))
         
-        
-        # Retorna tamanho da lista -1
-        o = len(p)-1
-        r=""
-        for k in range(len(s)):
-            if s[k] in vogais:
-                r += p[o]
-                o -= 1
-            else:
-                r += s[k]
-                
-        return r
-
-        
-               
 reverse = Solution()
-print(reverse.reverseVowels('leetcode'))
 
+
+reverse.reverseWords('the sky is blue')
 
