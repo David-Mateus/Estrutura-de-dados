@@ -9,7 +9,7 @@ def productExceptSelf(nums) :
                 pre *= nums[i]
         for i in range(len(nums)-1,-1,-1):
             result[i] *= pro
-            pro *= nums[i]
+            pro *= nums[i] 
         print(result)
                 
              
