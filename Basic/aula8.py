@@ -1,7 +1,7 @@
 nome = 'David'
 sobrenome = 'Mateus'
-idade = 25
-ano_nascimento = 1998
+idade = 26
+ano_nascimento = 2024 - idade
 maior_de_idade = idade >= 18
 altura_metros = 1.69
 
