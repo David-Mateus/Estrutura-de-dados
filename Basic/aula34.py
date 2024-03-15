@@ -4,6 +4,6 @@ Quando usar while e for: Devemos usar while quando não sabemos o final: program
 
 texto = "Python"
 
-for i in range(len(texto)):
-    print(texto[i], end="")
+for i in texto:
+    print(i, end="")
 
