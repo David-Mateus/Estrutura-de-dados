@@ -1,4 +1,6 @@
 list_item = []
+price_item = []
+total = 0
 while True:
     print("=== Bem-vindo a sua lista de compras ===")
     print("=== Instruções de uso: Produto: Loren Ipsun")
@@ -7,7 +9,8 @@ while True:
         2.Atualizar
         3.Remover
         4.Listar
-        5.Sair
+        5.Total
+        6.Sair
         """)
     try:
         option_choice = int(input("Escolha: "))
@@ -15,7 +18,9 @@ while True:
         
         if option_choice == 1:
             name_product = input("Nome do produto: ").lower()
+            price_product = float(input("Preço do produto: "))
             list_item.append(name_product)
+            price_item.append(price_product)
             
         elif option_choice == 2:
             name_product_old = input("Digite o nome do produto: ").lower()
@@ -33,8 +38,12 @@ while True:
             else:
                 print("Item não encontrado!")
         elif option_choice == 4:
-            for index, value in enumerate(list_item):
-                print(index, value)
+            for index, name in enumerate(list_item):
+                print(index, name, end="")
+        elif option_choice == 5:
+            for i in range(len(list_item)):
+                total += price_item[i]
+            print(f"Total {total}")
         else:
             break
                     
