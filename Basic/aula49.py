@@ -1,7 +1,7 @@
-#Calculo do primeiro digito do CPF
+#Calculo do segundo digito do CPF
 cpf = '37696055003'
-contador_regressivo = 10
-noves_digitos = cpf[0:9]
+contador_regressivo = 11
+noves_digitos = cpf[0:10]
 
 sum_value_cpf = 0
 for digito in noves_digitos:
